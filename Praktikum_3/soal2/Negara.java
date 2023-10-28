@@ -1,4 +1,4 @@
-package Praktikum3.soal2;
+package Praktikum_3.soal2;
 
 import java.util.HashMap;
 import java.util.Scanner;

@@ -1,4 +1,4 @@
-package Praktikum3.soal3;
+package Praktikum_3.soal3;
 
 import java.util.ArrayList;
 import java.util.Scanner;

@@ -1,4 +1,4 @@
-package Praktikum3.soal1;
+package Praktikum_3.soal1;
 
 public class Dadu {
     private int nilai;
