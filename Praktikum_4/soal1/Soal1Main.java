@@ -1,4 +1,4 @@
-package soal1;
+package Praktikum_4.soal1;
 
 import java.util.Scanner;
 
